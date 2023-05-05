@@ -1,0 +1,1 @@
+Usage: `/!slay [percent]` or `/!drop [percent]`.
